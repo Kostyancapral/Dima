@@ -1,0 +1,13 @@
+﻿Построение начато 07.03.2017 21:35:10.
+     1>Проект "D:\Дмитрий\Справочник\Справочник\Справочник.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Учёба\IT предметы\Прога\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+       Link:
+         D:\Учёба\IT предметы\Прога\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Дмитрий\Справочник\Debug\Справочник.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Дмитрий\Справочник\Debug\Справочник.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Дмитрий\Справочник\Debug\Справочник.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         Справочник.vcxproj -> D:\Дмитрий\Справочник\Debug\Справочник.exe
+     1>Построение проекта "D:\Дмитрий\Справочник\Справочник\Справочник.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.45
