@@ -9,7 +9,7 @@ int main()
 	int mass[15];
 	for(int i=0;i<n;i++)
 	{
-		mass[i]=rand()%21;//от 1 до 20
+		mass[i]=rand()%16;//от 1 до 15
 	}
 	cout<<"massiv: ";
 	for(int i=0;i<n;i++)

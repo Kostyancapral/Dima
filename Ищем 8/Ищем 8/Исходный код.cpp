@@ -50,8 +50,8 @@ int main()
 	else
 	{
 		cout<<"8 pod nomerom "<<pozition+1<<endl;
-		cout<<"Summa elementov posle = "<< sum;
-		cout<<"Proizvidenie elementov do = "<< pr;
+		cout<<"Summa elementov posle = "<< sum<<endl;
+		cout<<"Proizvidenie elementov do = "<< pr<<endl;
 	}
 	system("pause");
     return 0;
